@@ -1,5 +1,5 @@
 ### Olá 👋, sou o Vinicius. Tenho experiência em Suporte Interno e Desenvolvimento Web. Tenho grande interesse por tecnologia e estou sempre em busca de aprendizado contínuo para oferecer soluções práticas, eficientes e de alta qualidade.
-
+<br>
 
 ## 🌟 Habilidades
 
@@ -19,14 +19,14 @@
 - ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
+<br>
 ## 📚 Formação e Aprendizado
 Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente em busca de aprimoramento, aproveitando plataformas de estudo renomadas, como:
 - [Curso em Vídeo](https://www.cursoemvideo.com)  
 - [Udemy](https://www.udemy.com)  
 - [Hora de Codar](https://www.youtube.com/c/HoradeCodar)
 
-
+<br>
 
 ## 🚀 Soft Skills
 
@@ -35,7 +35,7 @@ Além das competências técnicas, destaco:
 - **Resolução de problemas:** Abordagem criativa e prática para desafios.
 - **Aprendizado contínuo:** Constante evolução e adaptação às novas tecnologias.
 
-
+<br>
 
 ## 👨‍💻 **Programador em constante evolução**
 
