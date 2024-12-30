@@ -1,8 +1,8 @@
 
 ## 💻
-### Olá 👋, sou o Vinicius, formado em Análise e Desenvolvimento de Sistemas. Tenho experiência em Suporte Interno e Desenvolvimento Web. Tenho grande interesse por tecnologia e estou sempre em busca de aprendizado contínuo para oferecer soluções práticas, eficientes e de alta qualidade.
+### Olá 👋, sou o Vinicius. Tenho experiência em Suporte Interno e Desenvolvimento Web. Tenho grande interesse por tecnologia e estou sempre em busca de aprendizado contínuo para oferecer soluções práticas, eficientes e de alta qualidade.
 
-## 🌟 Minhas Habilidades
+## 🌟 Habilidades
 
 ### **Desenvolvimento Web**  
 - Linguagens: **PHP**, **SQL**, **JavaScript**, **CSS**, **Python** (básico).  
@@ -23,8 +23,7 @@
 ---
 
 ## 📚 Formação e Aprendizado
-
-Sempre busco me aperfeiçoar em plataformas de estudo reconhecidas, como:  
+formado em Análise e Desenvolvimento de Sistemas, sempre busco me aperfeiçoar em plataformas de estudo reconhecidas, como:  
 - [Curso em Vídeo](https://www.cursoemvideo.com)  
 - [Udemy](https://www.udemy.com)  
 - [Hora de Codar](https://www.youtube.com/c/HoradeCodar)
