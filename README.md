@@ -1,5 +1,5 @@
 ### Olá 👋, sou o Vinicius. Tenho experiência em Suporte Interno e Desenvolvimento Web. Tenho grande interesse por tecnologia e estou sempre em busca de aprendizado contínuo para oferecer soluções práticas, eficientes e de alta qualidade.
---
+
 
 ## 🌟 Habilidades
 
@@ -37,3 +37,7 @@ Além das competências técnicas, destaco:
 - **Aprendizado contínuo:** Constante evolução e adaptação às novas tecnologias.
 
 ---
+
+
+## 👨‍💻 **Programador em constante evolução**
+
