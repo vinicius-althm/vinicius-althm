@@ -6,7 +6,7 @@
 - Experiência em:
   - **Suporte Interno**
   - **Desenvolvimento Web**
- Tenho grande interesse por **tecnologia**  Em busca de **aprendizado contínuo** para oferecer soluções:
+### Tenho grande interesse por **tecnologia**  Em busca de **aprendizado contínuo** para oferecer soluções:
 
 ## 🌟 Minhas Habilidades
 
