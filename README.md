@@ -20,6 +20,7 @@
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <br>
+
 ## 📚 Formação e Aprendizado
 Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente em busca de aprimoramento, aproveitando plataformas de estudo renomadas, como:
 - [Curso em Vídeo](https://www.cursoemvideo.com)  
