@@ -1,7 +1,12 @@
 
 # 💻
 
-## Olá 👋, sou o Vinicius, formado em Análise e Desenvolvimento de Sistemas, com experiência em Suporte Interno e Desenvolvimento Web. Tenho grande interesse por tecnologia e estou sempre em busca de aprendizado contínuo para oferecer soluções práticas, eficientes e de qualidade.
+## Olá 👋, sou o Vinicius, formado em:
+- **Análise e Desenvolvimento de Sistemas**
+- Experiência em:
+  - **Suporte Interno**
+  - **Desenvolvimento Web**
+ Tenho grande interesse por **tecnologia**  Em busca de **aprendizado contínuo** para oferecer soluções:
 
 ## 🌟 Minhas Habilidades
 
