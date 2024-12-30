@@ -19,7 +19,6 @@
 - ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
 ## 📚 Formação e Aprendizado
 Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente em busca de aprimoramento, aproveitando plataformas de estudo renomadas, como:
@@ -27,7 +26,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente em 
 - [Udemy](https://www.udemy.com)  
 - [Hora de Codar](https://www.youtube.com/c/HoradeCodar)
 
----
+
 
 ## 🚀 Soft Skills
 
@@ -36,7 +35,6 @@ Além das competências técnicas, destaco:
 - **Resolução de problemas:** Abordagem criativa e prática para desafios.
 - **Aprendizado contínuo:** Constante evolução e adaptação às novas tecnologias.
 
----
 
 
 ## 👨‍💻 **Programador em constante evolução**
