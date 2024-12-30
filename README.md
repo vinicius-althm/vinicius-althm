@@ -1,3 +1,5 @@
+👨‍💻 Programador em constante evolução
+<br>
 ### Olá 👋, sou o Vinicius. Tenho experiência em Suporte Interno e Desenvolvimento Web. Tenho grande interesse por tecnologia e estou sempre em busca de aprendizado contínuo para oferecer soluções práticas, eficientes e de alta qualidade.
 <br>
 
@@ -38,5 +40,4 @@ Além das competências técnicas, destaco:
 
 <br>
 
-## 👨‍💻 **Programador em constante evolução**
 
