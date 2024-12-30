@@ -23,7 +23,7 @@
 ---
 
 ## 📚 Formação e Aprendizado
-formado em Análise e Desenvolvimento de Sistemas, sempre busco me aperfeiçoar em plataformas de estudo reconhecidas, como:  
+Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente em busca de aprimoramento, aproveitando plataformas de estudo renomadas, como:
 - [Curso em Vídeo](https://www.cursoemvideo.com)  
 - [Udemy](https://www.udemy.com)  
 - [Hora de Codar](https://www.youtube.com/c/HoradeCodar)
