@@ -26,9 +26,7 @@
 ## 📚 Formação e Aprendizado
 Sou formado em Análise e Desenvolvimento de Sistemas e estou constantemente em busca de aprimoramento, aproveitando plataformas de estudo renomadas, como:
 - [Curso em Vídeo](https://www.cursoemvideo.com)  
-- [Udemy](https://www.udemy.com)  
-- [Hora de Codar](https://www.youtube.com/c/HoradeCodar)
-
+- [Udemy](https://www.udemy.com) 
 <br>
 
 ## 🚀 Soft Skills
